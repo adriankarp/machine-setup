@@ -3,6 +3,22 @@
   <p>intended for macOS, but most applications and tools are available on other operating systems
 </div>
 
+- [Homebrew](#homebrew)
+- [Xcode CLI Development Tools](#xcode-cli-development-tools)
+- [Git](#git)
+  * [GitHub Command-Line SSH Authentication](#github-command-line-ssh-authentication)
+- [Node.js](#nodejs)
+- [Yarn](#yarn)
+- [Python](#python)
+- [iTerm2](#iterm2)
+- [zsh + oh my zsh](#zsh---oh-my-zsh)
+- [Development Applications](#development-applications)
+- [Personal Applications](#personal-applications)
+- [VSCode Extensions](#vscode-extensions)
+- [Font](#font)
+- [Command Line Tools](#command-line-tools)
+- [Extensions](#extensions)
+
 
 ### Homebrew
 - [Brew homepage](https://brew.sh/)
@@ -90,14 +106,14 @@ And add the following lines
 - Use the [Fira Code font](https://github.com/tonsky/FiraCode) from [tonsky](https://tonsky.me/). 
 - After downloading the .tff  install the font on your Mac by opening the file, and then use [these instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions) to add Fira Code to VSCode
 
-## Command Line Tools
+### Command Line Tools
 - [bat](https://github.com/sharkdp/bat) - *a cat clone with syntax highlighting and Git integration*
 - [exa](https://github.com/ogham/exa) - *ls mdoern replacement*
 - [htop](https://github.com/htop-dev/htop) - *an interactive process viewer*
 - [httpie](https://github.com/httpie/httpie) - *human-friendly CLI HTTP client for the API era*
 - [wtfutil](https://github.com/wtfutil/wtf) - *the personal information dashboard for your terminal*
 
-## Extensions
+### Extensions
 - [Vanilla](https://matthewpalmer.net/vanilla/)
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704)
 - [rocket](https://matthewpalmer.net/rocket/)
