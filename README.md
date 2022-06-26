@@ -2,7 +2,7 @@
   <h1>💻 machine setup</h1>
   <p>intended for macOS, but most applications and tools are available on other operating systems
 </div>
----
+---------------------------------------------------------------------------------------------------
 
 ### Homebrew
 - [Brew homepage](https://brew.sh/)
