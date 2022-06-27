@@ -116,6 +116,11 @@ And add the following lines <br>
 - [ansiweather](https://github.com/fcambus/ansiweather) - *weather in terminal, with ANSI colors and Unicode symbols*
 - [thefuck](https://github.com/nvbn/thefuck) - *magnificent app which corrects your previous console command*
 - [lazygit](https://github.com/jesseduffield/lazygit) - *simple terminal UI for git commands*
+- [ani-cli](https://github.com/pystardust/ani-cli) - *a cli tool to browse and play anime*
+- [how2](https://github.com/santinic/how2) - *stackoverflow from the terminal*
+- [autojump](https://github.com/wting/autojump) - *a cd command that learns - easily navigate directories from the command line*
+- [cli-fireplace](https://github.com/dolsup/cli-fireplace) - *🎉Enjoy your 🎁Christmas🎅 watching digital fireplace🔥 on your own terminal🖥*
+- [neofetch](https://www.cyberciti.biz/howto/neofetch-awesome-system-info-bash-script-for-linux-unix-macos/) - *display what operating system you are using including theme, icons, hardware config and more*
 
 ### Extensions
 - [Vanilla](https://matthewpalmer.net/vanilla/)
