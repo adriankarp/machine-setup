@@ -21,7 +21,7 @@
 
 
 ### Homebrew
-- [Brew homepage](https://brew.sh/)
+- [Brew homepage](https://brew.sh/) <br>
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 ### Xcode CLI Development Tools
@@ -29,7 +29,7 @@
 
 ### Git
 - `brew install git`
-- Configure git to always use SSH when dealing with HTTPS GitHub repos
+- Configure git to always use SSH when dealing with HTTPS GitHub repos <br>
 `git config --global url."git@github.com:".insteadOf https://github.com/`
 
 #### GitHub Command-Line SSH Authentication
@@ -37,27 +37,27 @@
 - [Add the SSH public key to your Github account](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 
 ### Node.js
-- Check if Node is already installed, and uninstall it first
+- Check if Node is already installed, and uninstall it first <br>
 `brew uninstall --ignore-dependencies node && brew uninstall --force node`
 
-- Update the Homebrew package list and install NVM
-`brew update`
+- Update the Homebrew package list and install NVM <br>
+`brew update` <br>
 `brew install nvm`
 
-- Create a directory for NVM at home
+- Create a directory for NVM at home <br>
 `mkdir ~/.nvm`
 
-- Now, configure the required environment variables. Edit the following configuration file in your home directory
-`nano ~/.zshrc`
-And add the following lines
-`export NVM_DIR=~/.nvm`
+- Now, configure the required environment variables. Edit the following configuration file in your home directory <br>
+`nano ~/.zshrc` <br>
+And add the following lines <br>
+`export NVM_DIR=~/.nvm` <br>
 `source $(brew --prefix nvm)/nvm.sh`
 
-- Install Node using NVM 
+- Install Node using NVM <br>
  `nvm install node`
 
 ### Yarn 
-- [Install Yarn with Homebrew](https://formulae.brew.sh/formula/yarn)
+- [Install Yarn with Homebrew](https://formulae.brew.sh/formula/yarn) <br>
 `brew install yarn`
 
 ### Python
@@ -108,7 +108,7 @@ And add the following lines
 
 ### Command Line Tools
 - [bat](https://github.com/sharkdp/bat) - *a cat clone with syntax highlighting and Git integration*
-- [exa](https://github.com/ogham/exa) - *ls mdoern replacement*
+- [exa](https://github.com/ogham/exa) - *ls modern replacement*
 - [htop](https://github.com/htop-dev/htop) - *an interactive process viewer*
 - [httpie](https://github.com/httpie/httpie) - *human-friendly CLI HTTP client for the API era*
 - [wtfutil](https://github.com/wtfutil/wtf) - *the personal information dashboard for your terminal*
