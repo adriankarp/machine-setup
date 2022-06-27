@@ -69,6 +69,7 @@ And add the following lines <br>
 ### zsh + oh my zsh
 - [zsh](https://ohmyz.sh)
 - [oh my zsh](https://ohmyz.sh/)
+- `plugins=(git gitfast git-extras dirhistory zsh-autosuggestions zsh-syntax-highlighting)`
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ### Development Applications
@@ -112,6 +113,9 @@ And add the following lines <br>
 - [htop](https://github.com/htop-dev/htop) - *an interactive process viewer*
 - [httpie](https://github.com/httpie/httpie) - *human-friendly CLI HTTP client for the API era*
 - [wtfutil](https://github.com/wtfutil/wtf) - *the personal information dashboard for your terminal*
+- [ansiweather](https://github.com/fcambus/ansiweather) - *weather in terminal, with ANSI colors and Unicode symbols*
+- [thefuck](https://github.com/nvbn/thefuck) - *magnificent app which corrects your previous console command*
+- [lazygit](https://github.com/jesseduffield/lazygit) - *simple terminal UI for git commands*
 
 ### Extensions
 - [Vanilla](https://matthewpalmer.net/vanilla/)
