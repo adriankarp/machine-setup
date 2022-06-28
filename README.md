@@ -68,7 +68,7 @@ And add the following lines <br>
 - [autojump](https://github.com/wting/autojump) - *a cd command that learns - easily navigate directories from the command line*
 - [neofetch](https://www.cyberciti.biz/howto/neofetch-awesome-system-info-bash-script-for-linux-unix-macos/) - *display what operating system you are using including theme, icons, hardware config and more*
 - [ani-cli](https://github.com/pystardust/ani-cli) - *a cli tool to browse and play anime*
-- [mangal](https://github.com/metafates/mangal) - *manga browser and downloader for Linux, Windows & MacOS with support for different formats and Anilist integration *
+- [mangal](https://github.com/metafates/mangal) - *manga browser and downloader for Linux, Windows & MacOS*
 - [telnet](https://formulae.brew.sh/formula/telnet) - *telnet towel.blinkenlights.nl - star wars 4*
 
 ### Development Applications
