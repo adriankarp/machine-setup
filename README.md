@@ -3,22 +3,6 @@
   <p>intended for macOS, but most applications and tools are available on other operating systems
 </div>
 
-- [Homebrew](#homebrew)
-- [Xcode CLI Development Tools](#xcode-cli-development-tools)
-- [Git](#git)
-  * [GitHub Command-Line SSH Authentication](#github-command-line-ssh-authentication)
-- [Node.js](#nodejs)
-- [Yarn](#yarn)
-- [Python](#python)
-- [iTerm2](#iterm2)
-- [zsh + oh my zsh](#zsh---oh-my-zsh)
-- [Development Applications](#development-applications)
-- [Personal Applications](#personal-applications)
-- [VSCode Extensions](#vscode-extensions)
-- [Font](#font)
-- [Command Line Tools](#command-line-tools)
-- [Extensions](#extensions)
-
 ### Homebrew
 - [Brew homepage](https://brew.sh/) <br>
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
