@@ -19,7 +19,6 @@
 - [Command Line Tools](#command-line-tools)
 - [Extensions](#extensions)
 
-
 ### Homebrew
 - [Brew homepage](https://brew.sh/) <br>
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
@@ -72,6 +71,22 @@ And add the following lines <br>
 - `plugins=(git gitfast git-extras dirhistory zsh-autosuggestions zsh-syntax-highlighting)`
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
+### Command Line Tools
+- [bat](https://github.com/sharkdp/bat) - *a cat clone with syntax highlighting and Git integration*
+- [exa](https://github.com/ogham/exa) - *ls modern replacement*
+- [htop](https://github.com/htop-dev/htop) - *an interactive process viewer*
+- [httpie](https://github.com/httpie/httpie) - *human-friendly CLI HTTP client for the API era*
+- [wtfutil](https://github.com/wtfutil/wtf) - *the personal information dashboard for your terminal*
+- [ansiweather](https://github.com/fcambus/ansiweather) - *weather in terminal, with ANSI colors and Unicode symbols*
+- [thefuck](https://github.com/nvbn/thefuck) - *magnificent app which corrects your previous console command*
+- [lazygit](https://github.com/jesseduffield/lazygit) - *simple terminal UI for git commands*
+- [how2](https://github.com/santinic/how2) - *stackoverflow from the terminal*
+- [autojump](https://github.com/wting/autojump) - *a cd command that learns - easily navigate directories from the command line*
+- [neofetch](https://www.cyberciti.biz/howto/neofetch-awesome-system-info-bash-script-for-linux-unix-macos/) - *display what operating system you are using including theme, icons, hardware config and more*
+- [ani-cli](https://github.com/pystardust/ani-cli) - *a cli tool to browse and play anime*
+- [mangal](https://github.com/metafates/mangal) - *manga browser and downloader for Linux, Windows & MacOS with support for different formats and Anilist integration *
+- [telnet](https://formulae.brew.sh/formula/telnet) - *telnet towel.blinkenlights.nl - star wars 4*
+
 ### Development Applications
 - [Zeplin](https://zeplin.io)
 - [VSCode](https://code.visualstudio.com/Download)
@@ -88,6 +103,12 @@ And add the following lines <br>
 - [Flipper](https://fbflipper.com/)
 - [GraphiQL](https://www.electronjs.org/apps/graphiql)
 
+### VSCode Extensions
+- Managed trough [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) in VSCode
+
+### Font
+- Use the [Fira Code font](https://github.com/tonsky/FiraCode) from [tonsky](https://tonsky.me/). 
+- After downloading the .tff  install the font on your Mac by opening the file, and then use [these instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions) to add Fira Code to VSCode
 
 ### Personal Applications
 - [VLC](https://www.videolan.org/vlc/download-macosx.en-GB.html)
@@ -99,28 +120,6 @@ And add the following lines <br>
 - [GeForce Now](https://www.nvidia.com/en-eu/geforce-now/) - *Cloud Gaming*
 - [Signal](https://signal.org/)
 - [Tor](https://www.torproject.org/download/)
-
-### VSCode Extensions
-- Managed trough [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync) in VSCode
-
-### Font
-- Use the [Fira Code font](https://github.com/tonsky/FiraCode) from [tonsky](https://tonsky.me/). 
-- After downloading the .tff  install the font on your Mac by opening the file, and then use [these instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions) to add Fira Code to VSCode
-
-### Command Line Tools
-- [bat](https://github.com/sharkdp/bat) - *a cat clone with syntax highlighting and Git integration*
-- [exa](https://github.com/ogham/exa) - *ls modern replacement*
-- [htop](https://github.com/htop-dev/htop) - *an interactive process viewer*
-- [httpie](https://github.com/httpie/httpie) - *human-friendly CLI HTTP client for the API era*
-- [wtfutil](https://github.com/wtfutil/wtf) - *the personal information dashboard for your terminal*
-- [ansiweather](https://github.com/fcambus/ansiweather) - *weather in terminal, with ANSI colors and Unicode symbols*
-- [thefuck](https://github.com/nvbn/thefuck) - *magnificent app which corrects your previous console command*
-- [lazygit](https://github.com/jesseduffield/lazygit) - *simple terminal UI for git commands*
-- [ani-cli](https://github.com/pystardust/ani-cli) - *a cli tool to browse and play anime*
-- [how2](https://github.com/santinic/how2) - *stackoverflow from the terminal*
-- [autojump](https://github.com/wting/autojump) - *a cd command that learns - easily navigate directories from the command line*
-- [cli-fireplace](https://github.com/dolsup/cli-fireplace) - *🎉Enjoy your 🎁Christmas🎅 watching digital fireplace🔥 on your own terminal🖥*
-- [neofetch](https://www.cyberciti.biz/howto/neofetch-awesome-system-info-bash-script-for-linux-unix-macos/) - *display what operating system you are using including theme, icons, hardware config and more*
 
 ### Extensions
 - [Vanilla](https://matthewpalmer.net/vanilla/)
