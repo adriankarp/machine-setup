@@ -111,5 +111,7 @@ And add the following lines <br>
 - [Scroll Reverser](https://pilotmoon.com/scrollreverser/)
 - [Shazam for Mac](https://apps.apple.com/us/app/shazam/id897118787)
 - [Vanilla](https://matthewpalmer.net/vanilla/)
+- [amethyst](https://ianyh.com/amethyst/)
+- [cakebrew](https://www.cakebrew.com/)
 - [f.lux](https://justgetflux.com)
 - [rocket](https://matthewpalmer.net/rocket/)
