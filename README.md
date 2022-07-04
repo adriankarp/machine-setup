@@ -70,6 +70,7 @@ And add the following lines <br>
 - [ani-cli](https://github.com/pystardust/ani-cli) - *a cli tool to browse and play anime*
 - [mangal](https://github.com/metafates/mangal) - *manga browser and downloader for Linux, Windows & MacOS*
 - [telnet](https://formulae.brew.sh/formula/telnet) - *telnet towel.blinkenlights.nl - star wars 4*
+- [fig.io](https://fig.io/) - *IDE-style autocomplete & intellisense to your existing terminal*
 
 ### Development Applications
 - [Zeplin](https://zeplin.io)
